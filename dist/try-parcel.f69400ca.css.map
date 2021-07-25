@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/main.scss"],"names":[],"mappings":"AAAA;EACI;;;AAGJ;EACI","file":"try-parcel.f69400ca.css","sourceRoot":"..","sourcesContent":["body {\n    font-size: xx-large;\n}\n\ndiv {\n    color: red;\n}"]}
